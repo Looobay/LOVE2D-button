@@ -1,7 +1,9 @@
--- NE FAIT PAS PLUS QUE LE NECESSAIRE !!!!!!
+-- This project is not finished yet.
 local m = require "module.engine.myMath"
-local mouse = require "module.engine.mouse"
-local main = require "main"
+
+function in_bound(target, mx, my) --This one do math and allows you to create a hitbox for the button
+    return mx >= target.x and mx <= target.x + target.width and my >= target.y and my <= target.y + target.height
+end
 
 local  button_module = {}
 
@@ -26,7 +28,7 @@ function button_module:update(dt) -- Put this in love.update()
         local x,y = love.mouse.getPosition()
         local leftClick = love.mouse.isDown(1)
         local rightClick = love.mouse.isDown(2)
-        local inBound = mouse.in_bound(v, x, y)
+        local inBound = in_bound(v, x, y)
     
         if inBound and leftClick then
          v.func()
