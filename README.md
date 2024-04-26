@@ -17,5 +17,9 @@ Third step, create your button in `love.load()` like this:
 ExampleButton = {button:new(300, 150,150,100,{1,1,1}, {1,0,1}, "Example", {0,0,0}, function()print("Example")end)}
 ````
 
+## Result:
+
+![alt text](example.png)
+
 ## Before using the lib !
 This project is not finished yet !
