@@ -16,6 +16,7 @@ Third step, create your button in `love.load()` like this:
 ````lua
 ExampleButton = {button:new(300, 150,150,100,{1,1,1}, {1,0,1}, "Example", {0,0,0}, function()print("Example")end)}
 ````
+You can check the `example` folder to see an example LÖVE2D project with the librarie.
 
 ## Result:
 
