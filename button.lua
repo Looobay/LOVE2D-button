@@ -1,5 +1,4 @@
 -- This project is not finished yet.
-local m = require "module.engine.myMath"
 
 function in_bound(target, mx, my) --This one do math and allows you to create a hitbox for the button
     return mx >= target.x and mx <= target.x + target.width and my >= target.y and my <= target.y + target.height
