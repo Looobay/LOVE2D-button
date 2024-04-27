@@ -15,7 +15,7 @@ button = require "button.lua"
 * Second step, adding `button:new()` to `love.load()`, `button:update(dt)` to `love.update(dt)` and `button:draw()` to `love.draw()`.
 ````lua
 function love.load()
-  button:new(--Put here your button)
+  button:new(--Put your button here)
 end
 
 function love.update(dt)
