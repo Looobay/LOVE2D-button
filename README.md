@@ -9,7 +9,7 @@ A simple librarie to create button with LÖVE 2D.
 ## How it's work:
 * First step, require the librarie :
 ```lua
-require "button.lua"
+button = require "button.lua"
 ```
 
 * Second step, adding `button:new()` to `love.load()`, `button:update(dt)` to `love.update(dt)` and `button:draw()` to `love.draw()`.
