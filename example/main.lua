@@ -6,8 +6,7 @@ function love.load()
         150,
         150,
         100,
-        {1,1,1}, 
-        {1,0,1}, 
+        {1,1,1},
         "Example", 
         {0,0,0}, 
         function()
