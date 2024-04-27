@@ -8,7 +8,7 @@ local  button_module = {}
 
 local buttons = {}
 
-function button_module:new(x,y,width,height,color,color2,text,textColor, func) -- Put this in love.load()
+function button_module:new(x,y,width,height,color,text,textColor, func) -- Put this in love.load()
     newButton = {}
     newButton.x = x
     newButton.y = y
