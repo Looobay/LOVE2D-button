@@ -38,6 +38,11 @@ You can check the `example` folder to see an example LÖVE2D project with the li
 ## Result:
 
 ![alt text](example.png)
+## Other tips:
+* How to use the `button:delete()` function:
+````lua
+button:delete(ExampleButton)
+````
 
 ## Before using the lib !
 This project is not finished yet so you may encounter some bugs !
