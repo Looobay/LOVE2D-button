@@ -1,6 +1,9 @@
 # LOVE2D-button
 A simple librarie to create button with LÖVE 2D.
 
+### Little warning:
+This project is not finished yet so you may encounter some bugs !
+
 ## Features:
 * Execute function on click
 * Can easily remove buttons with `button:delete()`
@@ -43,6 +46,3 @@ You can check the `example` folder to see an example LÖVE2D project with the li
 ````lua
 button:delete(ExampleButton)
 ````
-
-## Before using the lib !
-This project is not finished yet so you may encounter some bugs !
