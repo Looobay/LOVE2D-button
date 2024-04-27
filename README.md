@@ -2,8 +2,9 @@
 A simple librarie to create button with LÖVE 2D.
 
 ## Features:
-* Exectue function on click
+* Execute function on click
 * Can easily remove buttons with `button:delete()`
+* You can easily modify the code ! (because it is very lite)
 
 ## How it's work:
 * First step, require the librarie :
