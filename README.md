@@ -24,4 +24,4 @@ You can check the `example` folder to see an example LÖVE2D project with the li
 ![alt text](example.png)
 
 ## Before using the lib !
-This project is not finished yet !
+This project is not finished yet so you may encounter some bugs !
