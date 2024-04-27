@@ -50,4 +50,8 @@ function button_module:draw() -- Put this in love.draw()
     end
 end
 
+function button_module:delete(btn)
+    table.remove(buttons, btn.label)
+end
+
 return button_module
