@@ -4,12 +4,12 @@ function in_bound(target, mx, my) --This one do math and allows you to create a 
     return mx >= target.x and mx <= target.x + target.width and my >= target.y and my <= target.y + target.height
 end
 
-local  button_module = {}
+local  button_module = {} -- Here we store all the functions
 
-local buttons = {}
+local buttons = {} -- Here we store all the new buttons
 
 function button_module:new(x,y,width,height,color,text,textColor, func) -- Put this in love.load()
-    newButton = {}
+    newButton = {} -- We create a table and we create inside of it all the features we want for the button
     newButton.x = x
     newButton.y = y
     newButton.width = width
