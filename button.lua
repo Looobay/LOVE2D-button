@@ -44,7 +44,7 @@ function button_module:draw() -- Put this in love.draw()
     for i,v in ipairs(buttons) do
         if v.center == true then -- if the center option is set on "true" then we center the button AND the text :D
             love.graphics.setColor(v.color)
-            v.x = screen.w/3 -- BUT IF YOU DO THAT THE X AXIS OF YOUR BUTTON IS NOT IMPORTANT SO DONT BE SURPRISED !
+            v.x = screen.w/3 -- BUT IF YOU DO THAT YOU CANNOT CONTROL THE X AXIS OF YOUR BUTTON !
             love.graphics.rectangle("fill", v.x, v.y, v.width, v.height)
 
             love.graphics.setColor(v.textColor)
