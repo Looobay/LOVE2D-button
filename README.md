@@ -1,5 +1,5 @@
 # LOVE2D-button
-A simple librarie to create button with LÖVE 2D.
+A simple library for creating buttons with LÖVE 2D.
 
 ### Little warning:
 This project is not finished yet so you may encounter some bugs !
