@@ -1,21 +1,44 @@
-MIT License
+Looobay Public License 1.0 (LPL-1.0)
 
-Copyright (c) 2024 Looobay
+Copyright (C) 2024-Present Looobay, France
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+BY USING OR DOWNLOADING THE SOFTWARE AND/OR ASSOCIATED FILES (the "Software"), YOU AGREE TO THIS AGREEMENT.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This license (the "License") is an agreement between you (the "Licensee" or "You") and the author(s) of the Software (the "Author").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Both parties undertake to respect the following points:
+
+1. Preamble:
+	This license applies to any software, with freely accessible source code, whose Author distributes the License with the Software.
+
+2. You have the non-exclusive, royalties-free, worldwide and non-transferable right:
+	2a. to use, reproduce, copy and modify the Software,
+	2b. to publish, distribute and sell a modified version of the Software (the "Derived version"), provided that the Derivate version includes this agreement and the copyright remains preserved.
+
+3. Restrictions:
+	3a. You cannot sell the orignal Software, without the prior written consent of the Author,
+	3b. if you are selling the Software, then, such writtent consent from the Author must be inclued with the Software.
+
+4. Duration:
+	4a. The agreement remains in force unless terminated by the Licensee or the Author for non-compliance with the terms.
+
+5. Responsibility:
+	5a. The Software is distributed "as is" without warranty of any kind.
+	5b. Under no circumstances can the Author be held responsible for any claim, damage or other liability arising from the use of the Software.
+	5c. The Licensee is reponsible for the Derivated version and the distribution of the Derivated version.
+
+6. Author name:
+	6a. You must credit the Author for use the Software in your Derivated version or for use of code from the Software in your Derivated version.
+	6b. You cannot use the Author name without the prior written consent of the Author in your Derivated version.
+	6c. The Author name may not be use in advertisement or otherwise to promote the sale, use or dealings in the Derivated version without the prior writen consent of the Author.
+
+7. Contributions:
+	7a. All contributions, i.e. all modifications or additions to the Software by the Licensee and authorized by the Author (the "Contribution"), that you submit to the Author become the property of the Author.
+
+8. General provisions:
+	8a. Any modification of the contract must be in writing and signed by both parties.
+	8b. You may not assign this agreement without the written consent of the Author.
+	8c. If one provision of the contract is found to be invalid, the others remain in force.
+	8d. Author's local law governs the agreement.
+
+By accepting this license, you agree to comply with these terms and conditions for the use of the Author's Software.
