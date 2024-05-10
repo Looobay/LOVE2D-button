@@ -46,5 +46,3 @@ You can check the `example` folder to see an example LÖVE2D project with the li
 ````lua
 button:delete(ExampleButton)
 ````
-## LICENSE
-The library use the [LPL-1.0](https://github.com/Looobay/LOVE2D-button/blob/main/LICENSE).
